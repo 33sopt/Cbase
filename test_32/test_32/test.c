@@ -4,7 +4,7 @@
  #define AMOUNT 100
 int main() {
 	int a, b;
-	printf("请输入两个整数：");
+	printf("脟毛脢盲脠毛脕陆赂枚脮没脢媒拢潞");
 	scanf_s("%d %d", &a,&b);
 	printf("a=%d,b=%d\n",a,b);
 	printf("%d",AMOUNT);
